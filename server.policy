@@ -1,0 +1,3 @@
+grant codeBase "file:/home/neelanjan/Documents/workspace/GUI Chat Server/bin/" {
+    permission java.security.AllPermission;
+};
